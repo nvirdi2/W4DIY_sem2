@@ -1,0 +1,19 @@
+Navdeep Virdi
+166485193
+Feb 14th, 2021
+
+Reflection
+  These two assignments was honeslty pretty hard but I feel like that it was not as hard 
+as hard compared to the last workshop. There was many reasons why I felt like this
+workshop was a little easier than the other. When looking at workshop 3 I said it was
+the "hardest one I have done so far" and I still stand by that. This workshop was
+focused on constructors and destructors. My plan for this one was to create one file at 
+a time because I know the last one was hard because I did it very messy and did all the 
+header files and then the modules. This helped organize the process. According to the 
+learning outcomes I learned how to define a default constructor which was honestly very 
+easy. I learned that a default constructor has no parameters or are all "default" 
+parameters. Custom constructor was actually very easy too but when looking at the name 
+it seemed very hard. However, the most helpful i believe that i learned was the defining 
+a destructor to make sure that any memory leak is prevented. This really helped because 
+you would delete[] the data in member and then make sure its a 0. Then add what you want 
+to it using the data members name equal to "new" and name of new stuff. The reference of a current object like "*this" was helpful because its deferencing it as we learned in the other workshop and quiz.
